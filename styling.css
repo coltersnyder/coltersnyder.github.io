@@ -88,3 +88,9 @@ ul {
 	text-align: center;
 	horiz-align: center;
 }
+
+.pdfobject-container {
+	padding: 12px;
+	height: 68rem;
+	width: 50rem;
+}

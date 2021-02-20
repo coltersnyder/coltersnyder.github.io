@@ -6,6 +6,10 @@ h1 {
 	color: black;
 }
 
+ul {
+	list-style-position: inside;
+}
+
 .topnav{
 	border-radius: 25px;
 	background-color: #575757;
